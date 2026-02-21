@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+results/
+wordlists/*.txt
+!wordlists/README.md
+profiles/*.json
+*.log
+*.pid
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Security
+*.key
+*.pem
+*.crt
+*.p12

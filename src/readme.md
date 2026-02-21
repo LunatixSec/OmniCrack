@@ -1,0 +1,5 @@
+[![Made by Lunatix](https://img.shields.io/badge/Made%20by-Lunatix-red.svg)](https://github.com/freakzplayz22-netizen)
+[![Version](https://img.shields.io/github/v/release/freakzplayz22-netizen/OmniCrack)](https://github.com/freakzplayz22-netizen/OmniCrack/releases)
+[![Downloads](https://img.shields.io/github/downloads/freakzplayz22-netizen/OmniCrack/total)](https://github.com/freakzplayz22-netizen/OmniCrack/releases)
+[![License](https://img.shields.io/github/license/freakzplayz22-netizen/OmniCrack)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
